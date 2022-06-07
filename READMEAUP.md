@@ -12,7 +12,7 @@ Acceptable uses of the Website are expressly encouraged, and unacceptable uses a
 * Determination of feasibility for proposed research studies (e.g., calculating sample size
 and statistical power)
 * Early hypothesis exploration following generally-acceptable statistical principles, as
-outlined in the <a href=“https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf”> PCDC Statistical Manual</a>
+outlined in the [PCDC Statistical Manual](“https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf”)
 
 **Unacceptable uses** include:
 * Indiscriminate hypothesis testing (i.e., “p-hacking”) and other analysis methods that do
@@ -21,4 +21,4 @@ not follow generally-accepted statistical principles
 * Use of automated methods (e.g., scripts) to explore or export data
 * Disseminating data or results without express permission from the PCDC
 * Use for commercial purposes
-* Any other unacceptable uses outlined in the<a href=“https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf”> PCDC Statistical Manual</a>
+* Any other unacceptable uses outlined in the [PCDC Statistical Manual](“https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf”)
