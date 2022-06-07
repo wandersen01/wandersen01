@@ -1,35 +1,20 @@
-<h1 align="center"> PRIVACY NOTICE
-  </h1>
-The Pediatric Cancer Data Commons (PCDC) is a research program operated by the University of Chicago. This privacy notice will explain how our organization uses the personal data we collect from you when you visit our websites. Other University offices and functions may have separate notices. If you would like to know more about how another University office or function uses personal information, please contact that office or function directly.
- <body> 
-  <h4 align="center" style ="color:blue"> Topics
-  </h4>
-  <ul align="center">
-     <li>What data do we collect?</li>
-     <li>How do we collect your data?</li>
-     <li>How will we use your data?</li>
-     <li>How do we store your data?</li>
-     <li>Information and updates</li>
-     <li>What are your data protection rights?</li>
-     <li>What are cookies?</li>
-     <li>How do we use cookies?</li>
-     <li>What types of cookies do we use?</li>
-     <li>How to manage your cookies</li>
-     <li>Privacy policies of other websites</li>
-     <li>Changes to our privacy policy</li>
-     <li>How to contact us</li>
-     <li>Remedies and right to file a complaint</li>
-  </ul>
- </body>
- <body>
-  <h4><mark class="blue"> What data do we collect?</mark></h4>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
- </body>
+**Adopted 18 May 2022**
+**Acceptable Use Policy: Pediatric Cancer Data Commons**
+
+This Acceptable Use Policy (this “Policy”) outlines acceptable and unacceptable uses of the Pediatric Cancer Data Commons (“PCDC”) website (the “Website”), including data exploration tools (“analytics tools”). By using the Website, users agree to abide by this Policy, which may be updated from time-to-time
+
+Acceptable uses of the Website are expressly encouraged, and unacceptable uses are prohibited. Access may be revoked at the sole discretion of the PCDC for users suspected or proven to have engaged in unacceptable use.
+
+**Acceptable uses** include:
+* Determination of feasibility for proposed research studies (e.g., calculating sample size
+and statistical power)
+* Early hypothesis exploration following generally-acceptable statistical principles, as
+outlined in the [PCDC Statistical Manual](https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf)
+
+**Unacceptable uses** include:
+* Indiscriminate hypothesis testing (i.e., “p-hacking”) and other analysis methods that do
+not follow generally-accepted statistical principles
+* Attempting to derive individual patient-level data or re-identify patients
+* Use of automated methods (e.g., scripts) to explore or export data
+* Disseminating data or results without express permission from the PCDC
+* Any other unacceptable uses outlined in the [PCDC Statistical Manual](https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf)
