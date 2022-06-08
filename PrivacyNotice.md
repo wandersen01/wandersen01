@@ -1,3 +1,4 @@
+
 <h1 align= "center">
  Privacy Notice
 </h1> <br>
@@ -6,7 +7,7 @@ The Pediatric Cancer Data Commons (PCDC) is a research program operated by the U
 <p align= "center">
   <strong> Topics </strong>
 </p>
-<ul align= "center">
+<ul>
     <li>What data do we collect?</li>
     <li>How do we collect your data?</li>
     <li>How will we use your data?</li>
@@ -21,8 +22,9 @@ The Pediatric Cancer Data Commons (PCDC) is a research program operated by the U
     <li>Changes to our privacy policy</li>
     <li>How to contact us</li>
     <li>Remedies and right to file a complaint</li>
-</ul>
-**What data do we collect?**
+ </ul>
+ 
+**What data do we collect?** <br>
 * Name
 * E-mail address
 * Institutional affiliation
