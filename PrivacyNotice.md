@@ -1,4 +1,4 @@
-
+![Logo](Images/PcdcLogo.png)
 <h1 align= "center">
  Privacy Notice
 </h1> <br>
