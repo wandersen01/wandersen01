@@ -1,5 +1,4 @@
-**Adopted 18 May 2022**
-**Acceptable Use Policy: Pediatric Cancer Data Commons**
+**Adopted 18 May 2022<br>Acceptable Use Policy: Pediatric Cancer Data Commons**
 
 This Acceptable Use Policy (this “Policy”) outlines acceptable and unacceptable uses of the Pediatric Cancer Data Commons (“PCDC”) website (the “Website”), including data exploration tools (“analytics tools”). By using the Website, users agree to abide by this Policy, which may be updated from time-to-time
 
