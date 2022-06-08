@@ -1,4 +1,4 @@
-**Adopted 18 May 2022** 
+![Logo](Images/PcdcLogo.png)
 <br>
 **Acceptable Use Policy: Pediatric Cancer Data Commons**
 
@@ -22,3 +22,4 @@ not follow generally-accepted statistical principles
 * Disseminating data or results without express permission from the PCDC
 * Use for commercial purposes
 * Any other unacceptable uses outlined in the [PCDC Statistical Manual](“https://commons.cri.uchicago.edu/wp-content/uploads/2022/04/PCDC-Analytics-Tool-Documentation-Statistical-Manual.pdf”)
+###### Adopted 18 May 2022
