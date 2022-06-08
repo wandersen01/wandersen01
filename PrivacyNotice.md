@@ -129,3 +129,4 @@ If you have any questions about the PCDC privacy policy or the data we hold abou
 **Remedies and right to file complaint**<br>
 Some personal information collected by the PCDC may be covered by the European Union’s General Data Protection Regulation (GDPR) or national laws in the European Union. In such jurisdictions, if you believe your privacy rights under the GDPR have been violated, you may file a complaint with the UK Information Commissioner’s Office. For information on filing a complaint, please visit: https://ico.org.uk/make-a-complaint/.
 
+###### Pediatric Cancer Data Commons Privacy Notice<br>Last Updated: May 3, 2021
