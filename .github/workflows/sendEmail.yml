@@ -1,4 +1,4 @@
-- name: Send some mail
+name: Send some mail
   uses: wandersen01/send-email-action@master
   with:
     server_address: smtp.gmail.com
