@@ -1,5 +1,5 @@
-name: Send some mail
-  uses: wandersen01/send-email-action@master
+- name: Send Email Action (Node)
+  uses: wadeww/send-email-action@v1
   with:
     server_address: smtp.gmail.com
     port: 465
