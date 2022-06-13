@@ -22,6 +22,9 @@ The Pediatric Cancer Data Commons (PCDC) is a research program operated by the U
 * Event registration/attendance information
 * Information you include when e-mailing the PCDC support and operational teams
 
+ 
+ 
+ 
 **How do we collect your data?** <br>
 You directly provide the PCDC with most of the data we collect. We collect data and process data when you:
 * Create a User ID for the PCDC Data Portal
