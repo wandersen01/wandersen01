@@ -27,17 +27,6 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build1:
-    runs-on: ubuntu-latest  # windows-latest | macos-latest
-    name: Test changed-files
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
-
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v23
 
   # This workflow contains a single job called "build"
   build:
@@ -54,4 +43,4 @@ jobs:
         with:
           to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
-          body: 'A document(s) in ${{github.repository}} called ${{ steps.changed-files.outputs.all_changed_files }}  was comitted'
+          body: 'A document(s) in ${{github.repository}} called ${{github.sha }}  was comitted'
