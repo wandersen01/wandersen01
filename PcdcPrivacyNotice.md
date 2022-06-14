@@ -8,7 +8,8 @@ pizza
 
 <p>
 **What data do we collect?** <br>
-* Name
+* Name help
+
 * E-mail address
 * Institutional affiliation
 * User ID / Login
