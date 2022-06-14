@@ -49,7 +49,7 @@ We may share or disclose your personal information as follows:
 * De-Identified and Aggregate Information: The PCDC may use and disclose information about our users in de-identified or aggregate form without limitation.
 
 **How do we store your data?**<br>
-The PCDC and its systems are located in the United States or the European Union. Any personal information the PCDC collects or retains about you will be stored and used in the United States or the European Union. The PCDC safeguards users’ personal information according to existing policies with respect to privacy and data safeguarding standards. The PCDC will retain data collected from users until the purpose of which such data was collected is no longer applicable.
+The PCDC and its systems are located in the United States or the European Union. Any personal information the PCDC collects or retains about you will be stored and used in the United States or the European Union. The PCDC safeguards users’ personal information according to existing policies with respect to privacy and data safeguardingggg standards. The PCDC will retain data collected from users until the purpose of which such data was collected is no longer applicable.
 
 **Information and updates**<br>
 The PCDC would like to send you updates about PCDC activities and data in which you have expressed interest or that we think you might like. These updates include quarterly newsletters and annual reports. You may opt out of these updates and e-mails from the PCDC by sending an e-mail to pcdc_privacy@lists.uchicago.edu.
