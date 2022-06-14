@@ -8,7 +8,7 @@ The Pediatric Cancer Data Commons (PCDC) is a research program operated by the U
 
 <p>
 **What data do we collect?** <br>
-* Name 
+* Name hyhyhy
 * E-mail address
 * Institutional affiliation
 * User ID / Login
