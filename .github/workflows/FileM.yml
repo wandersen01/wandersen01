@@ -27,6 +27,22 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  which_branch:
+    runs-on: ubuntu-latest
+    steps:
+      # extract branch name
+      - name: Extract branch name
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: echo "::set-env name=BRANCH_NAME::$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      # extract branch name on pull request
+      - name: Print branch name
+        if: github.event_name == 'pull_request'
+        run: echo "::set-env name=BRANCH_NAME::$(echo ${GITHUB_HEAD_REF})"
+
+
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
@@ -42,4 +58,6 @@ jobs:
         with:
           to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
-          body: 'A document in ${{github.repository}} called ${{repository.name}} was comitted'
+          body: 'A document in ${{github.repository}} called $BRANCH_NAME  was comitted'
+  
+
