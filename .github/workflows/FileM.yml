@@ -43,4 +43,4 @@ jobs:
         with:
           to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
-          body: 'A document(s) in ${{github.repository}} called ${{github.sha }}  was comitted'
+          body: 'A document(s) in ${{github.repository}} called ${{git diff-tree --no-commit-id --name-only -r ${{ github.sha }}}}  was comitted'
