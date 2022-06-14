@@ -43,6 +43,6 @@ jobs:
         with:
           to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
-          body: 'A document in ${{github.repository}} called ${{github.repository.name}}  was comitted'
+          body: 'A document in ${{github.repository}} called ${{github.action_path}}  was comitted'
   
 
