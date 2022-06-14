@@ -6,10 +6,16 @@ name: Email Notification
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    paths:
+      - 'PcdcPrivacyNotice.md'
+      - 'StatisticalManual.md'
+      - 'TermsAndConditions.md'
   pull_request:
-    branches: [ "main" ]
-
+    paths:
+      - 'PcdcPrivacyNotice.md'
+      - 'StatisticalManual.md'
+      - 'TermsAndConditions.md'
+      
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -30,4 +36,4 @@ jobs:
         with:
           to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
-          body: 'A document was comitted'
+          body: 'A specific document called ${{github.repository}} was comitted'
