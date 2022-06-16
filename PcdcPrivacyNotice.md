@@ -78,7 +78,7 @@ There are a number of different types of cookies; however, our website uses:<br>
 If you do not wish to have persistent cookies placed on your computer, you can disable them using your browser. If you opt out of persistent cookies, you will still have access to information and resources at the PCDC, but some application functionality may be lost.
 <br>
 
-**Privacy policies of other webistes**<br>
+**Privacy policies of other webistes*
 The PCDC website contains links to other websitespolicy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 <b
 **Changes to our privacy policy**<br>lar review and places any updates on [this web page](ggggg). This privacy policy was last updated on 12 April 2021.
