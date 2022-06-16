@@ -10,8 +10,6 @@
 * Pages in the PCDC website and data portal that you visited
 * Address of the website that connected you to the PCDC
 * Cohort search terms
-* Professional and biographical information
-* Contact information
 * Newsletter access statistics
 * Event registration/attendance information
 * Information you include when e-mailing the PCDC support and operational teams
