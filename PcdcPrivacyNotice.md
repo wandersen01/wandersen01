@@ -52,7 +52,7 @@ Every user is entitled to the following:
 * The right to object to processing - You have the right to object to the PCDC’s processing of your personal data, under certain conditions.
 * The right to data portability - You have the right to request that the PCDC transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 * If you make a request, we have one month to respond to you. The PCDC will make a good-faith effort to honor all requests. Under certain circumstances, the PCDC may be required to retain personal data due to contractual or legal obligations.
-* If you would like to exercise any of these rights, please contact us:
+* If you would like to exercisrights, please contact us:
   * E-mail us at pcdc_privacy@lists.uchicago.edu
   * Call us at +1 773-834-8198
   * Or write to us:<br>
