@@ -20,7 +20,7 @@ jobs:
         my-key: ${{ steps.my-key.outputs.defined }}
       steps:
           - id: my-key
-            if: "${{ env.MY_KEY != '' }}"
+            if: "${{ env.MY_KEY != 'None' }}"
             run: echo "::set-output name=defined::true"
             env:
                 MY_KEY: ${{ secrets.EMAILLIST }}
