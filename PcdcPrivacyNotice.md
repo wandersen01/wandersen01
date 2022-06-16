@@ -7,9 +7,7 @@
 * User I
 * ]used when visiting our sites
 * Date and time of your visit
-* Pages in the PCDC website and data portal that you visited
-* Address of the website that connected you to the PCDC
-* Cohort search terms
+* Pages in the PCDC website and data portal tha
 * Newsletter access statistics
 * Event registration/attendance information
 * Information you include when e-mailing the PCDC support and operational teams
