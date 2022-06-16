@@ -7,7 +7,7 @@
 * User I
 * ]used when visiting our sites
 * Date and time of your visit
-* Pages in the PCDC website and data portal tha
+* Pages in the PCDC e and data portal tha
 * Newsletter access statistics
 * Event registration/attendance information
 * Information you include ailin operational teams
