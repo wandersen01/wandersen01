@@ -34,6 +34,6 @@ jobs:
       - name: Send Email Action
         uses: cinotify/github-action@v1.1.0
         with:
-          to: 'wandersen01@gmail.com'
+          to: ${{secrets.EMAILLIST}}
           subject: 'Document Commit'
           body: 'A specific document in ${{github.repository}} called ${{github.ref_name}}  was comitted'
