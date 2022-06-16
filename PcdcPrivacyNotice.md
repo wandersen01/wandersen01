@@ -10,7 +10,7 @@
 * Pages in the PCDC website and data portal tha
 * Newsletter access statistics
 * Event registration/attendance information
-* Information you include when e-mailing the PCDC support and operational teams
+* Information you include when e-mailin operational teams
 
  
  
