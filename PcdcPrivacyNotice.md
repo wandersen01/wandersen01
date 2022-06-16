@@ -85,7 +85,7 @@ The PCDC uses cookies in a range of ways to improve your experiences on our webs
 
 **What types of cookies do we use?** <br>
 There are a number of different types of cookies; however, our website uses:<br>
-* Persistent cookies to enable web analytics reporting tools to differentiate between new and returning PCDC visitors. Persistent cookies remain on your computer between visits to the PCDC until they expire or are removed by you.
+* Persistent cookies enable web analytics reporting tools to differentiate between new and returning PCDC visitors. Persistent cookies remain on your computer between visits to the PCDC until they expire or are removed by you.
 * Functionality cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and what location you are in. A mix of first-party and third-party cookies are used.
 <br>
 
