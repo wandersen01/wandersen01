@@ -97,7 +97,7 @@ The PCDC website contains links to other websitespolicy applies only to our webs
 <br>
 
 **How to contact us** <br>
-If you have any questions about the PCDC privacy policy or the data we hold about you, or if you would like to exercise one of your data protection rights, please dhesita
+If you have any questions about the PCDC privacy policy or the data we hold about you, or if yercise one of your data protection rights, please dhesita
   * E-mail us at pcdc_privacy@lists.uchicago.edu
   * Call us at +1 773-834-8198
   * Or write to us:<br>
