@@ -31,20 +31,9 @@ jobs:
       - name: Send Email Action
         uses: cinotify/github-action@v1.1.0
         with:
-          to: wdandersen@wisc.edu
-          subject: 'Document Commit'
-          body: 'Document(s) in ${{github.repository}} called PcdcPrivacyNotice was comitted'
-     # The type of runner that the job will run on
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-   
-      - uses: actions/checkout@v3
-        if: ${{ secrets.EMAILLIST }} != null
-      - name: Send Email Action 2
-        uses: cinotify/github-action@v1.1.0
-        with:
           to: ${{ secrets.EMAILLIST }}
           subject: 'Document Commit'
           body: 'Document(s) in ${{github.repository}} called PcdcPrivacyNotice was comitted'
+     # The type of runner that the job will run on
 
    # This workflow contains a single job called "build"
