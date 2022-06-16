@@ -17,20 +17,38 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  check-secret:
+      runs-on: ubuntu-latest
+      outputs:
+        my-key: ${{ steps.my-key.outputs.defined }}
+      steps:
+          - id: my-key
+            if: "${{ env.MY_KEY != 'None' }}"
+            run: echo "::set-output name=defined::true"
+            env:
+                MY_KEY: ${{ secrets.EMAILLIST }}
+  job1:
+      runs-on: ubuntu-latest
+      needs: [check-secret]
+      if: needs.check-secret.outputs.my-key == 'true'
+      steps:
+        - uses: actions/checkout@v3
+        - name: Send Email Action
+          uses: cinotify/github-action@v1.1.0
+          with:
+            to: ${{ secrets.EMAILLIST }}
+            subject: 'Document Commit'
+            body: 'Document(s) in ${{github.repository}} called DataPortalUserGuide.md was comitted'
 
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      - name: Send Email Action
-        uses: cinotify/github-action@v1.1.0
-        with:
-          to: ${{ secrets.EMAILLIST }}
-          subject: 'Document Commit'
-          body: 'Document(s) in ${{github.repository}} called DataPortalUserGuide.md was comitted'
+  job2:
+      runs-on: ubuntu-latest
+      needs: [check-secret]
+      if: needs.check-secret.outputs.my-key != 'true'
+      steps:
+        - uses: actions/checkout@v3
+        - name: Send Email Action
+          uses: cinotify/github-action@v1.1.0
+          with:
+            to: 'wandersen01@gmail.com'
+            subject: 'Document Commit'
+            body: 'Document(s) in ${{github.repository}} called test DataPortalUserGuide.md comitted'
