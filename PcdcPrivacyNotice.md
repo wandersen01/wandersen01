@@ -82,8 +82,7 @@ If you do not wish to have persistent cookies placed on your computer, you can d
 
 **Privacy policies of other webistes**<br>
 The PCDC website contains links to other websitespolicy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
-<br>
-
+<b
 **Changes to our privacy policy**<br>lar review and places any updates on [this web page](ggggg). This privacy policy was last updated on 12 April 2021.
 <br>
 
