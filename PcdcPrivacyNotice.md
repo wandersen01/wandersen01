@@ -12,8 +12,7 @@ The Pediatric Cancer Data Commons (PCDC) is a research program operated by the U
 * E-mail address
 * Institutional 
 * User I
-* IP address (a unique identifier assigned to every networked computer)
-* Operating system and information about the browser used when visiting our sites
+* ]used when visiting our sites
 * Date and time of your visit
 * Pages in the PCDC website and data portal that you visited
 * Address of the website that connected you to the PCDC
