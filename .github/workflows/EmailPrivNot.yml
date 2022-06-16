@@ -31,6 +31,6 @@ jobs:
       - name: Send Email Action
         uses: cinotify/github-action@v1.1.0
         with:
-          to: ${{ secrets.EMAILLIST }}
+          to: 'wandersen01@gmail.com'
           subject: 'Document Commit'
           body: 'Document(s) in ${{github.repository}} called PcdcPrivacyNotice.md was comitted'
