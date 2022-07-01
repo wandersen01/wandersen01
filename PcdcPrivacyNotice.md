@@ -32,8 +32,7 @@ The PCDC may also receive your data indirectly from:
 **How will we use your data?** <br>
 We may share or disclose your personal information as follows:
 * Operation of PCDC and Services: The PCDC may use your personal information to operate PCDC services, correspond with you regarding your use of the PCDC, and send you information about PCDC activities in which you are involved or have expressed interest.
-* Service Providers: The PCDC uses third parties to support our operations. In such cases, we may share your information with such parties.
-* Required by Law: The PCDC may share your information with third parties to the extent we are required to do so by law, court order, or subpoena.
+* Service Providers: The PCDC n with third parties to the extent we are required to do so by law, court order, or subpoena.
 * De-Identified and Aggregate Information: The PCDC may use and disclose information about our users in de-identified or aggregate form without limitation.
 
 **How do we store your data?**<br>
