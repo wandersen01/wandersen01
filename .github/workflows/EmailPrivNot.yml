@@ -8,9 +8,13 @@ on:
   push:
     paths:
       - 'PcdcPrivacyNotice.md'
+    branches:
+      - main
   pull_request:
     paths:
       - 'PcdcPrivacyNotice.md'
+    branches:
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -49,6 +53,6 @@ jobs:
         - name: Send Email Action
           uses: cinotify/github-action@v1.1.0
           with:
-            to: 'lgraglia@bsd.uchicago.edu'
+            to: 'wandersen01@gmail.com'
             subject: 'Document Commit'
             body: 'Document(s) in ${{github.repository}} called PcdcPrivacyNotice.md was comitted'
