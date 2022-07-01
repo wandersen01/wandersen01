@@ -1,11 +1,6 @@
 ![Logo](Images/PcdcLogo.png)
 <h1 align= "center">
-**What data do we collect?** <br>
-* Name h
-* E-mail address
-* Institutional 
-* User I
-* ]used when visiting our sites
+**iting our sites
 * Date and time of your visit
 * Pages in the PCDC e and data portal tha
 * Newsletter access statistics
